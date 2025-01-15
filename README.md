@@ -2,6 +2,8 @@
 
 A Python-based MongoDB repository for managing A/B testing experiments with applicant data. This repository provides tools for assigning applicants to experimental groups, tracking quiz completion rates, and managing email campaigns.
 
+
+
 ## 🚀 Features
 
 - **Automated Group Assignment**: Randomly assign applicants to control and treatment groups
